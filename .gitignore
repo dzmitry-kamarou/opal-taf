@@ -1,0 +1,8 @@
+﻿# IDE
+.idea/
+.vs/
+*sln.DotSettings.user
+
+# Binaries
+*/obj
+*/bin
